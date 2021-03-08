@@ -1,16 +1,19 @@
 h1 {
     color: dodgerblue;
     font-size: 40px;
+    font-weight: bold;
     text-align: center;
 }
 
 body {
     background-color: rgb(29, 29, 29);
+    font-family: 'Roboto';
 }
 
 .year-headers {
     color: rgb(230, 230, 230);
     font-size: 28px;
+    font-weight: bolder;
     margin-left: 30px;
     margin-top: 50px;
     margin-bottom: 30px;
@@ -22,7 +25,7 @@ p {
 }
 
 #last-paragraph {
-    font-size: 20px;
+    font-size: 24px;
     margin-top: 45px;
     margin-left: 25px;
 }
